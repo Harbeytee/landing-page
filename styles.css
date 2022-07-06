@@ -367,6 +367,9 @@ footer {
          padding-top: 0.7rem;
         padding-bottom: 0.7rem;
     }
+    footer {
+        padding-top: 15%;
+    }
     .footer-body {
         display: flex;
         flex-direction: row;
